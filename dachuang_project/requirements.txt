@@ -1,0 +1,11 @@
+pypinyin
+pygame
+webrtcvad-wheels
+pyaudio
+torch
+openai-whisper
+numpy
+ultralytics
+opencv-python
+jieba
+pydub
